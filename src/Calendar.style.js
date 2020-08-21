@@ -45,7 +45,8 @@ export default StyleSheet.create({
     alignSelf: "center"
   },
   dateName: {
-    textAlign: "center"
+    textAlign: "center",
+    textTransform: "capitalize"
   },
   weekendDateName: {
     color: "#A7A7A7",
